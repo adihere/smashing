@@ -4,5 +4,5 @@ applications:
 - name: adi-dashing 
   memory: 128M
   instances: 1
-  host: http://adi-smash.cfapps.io
+  host: adi-smash
 path: .
