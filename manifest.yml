@@ -1,7 +1,7 @@
 
 ---
 applications:
-- name: dashing 
+- name: adi-dashing 
   memory: 128M
   instances: 1
   host: dashing
